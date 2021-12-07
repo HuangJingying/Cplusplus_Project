@@ -1,3 +1,0 @@
-/Users/jingyinghuang/course/zhengli_c++/大作业/c++大作业-黄晶莹/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/jingyinghuang/course/zhengli_c++/大作业/c++大作业-黄晶莹/code/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/jingyinghuang/course/zhengli_c++/大作业/c++大作业-黄晶莹/code/cmake-build-debug/CMakeFiles/bigHomework.dir
