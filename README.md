@@ -162,7 +162,7 @@ Release the merchant's integral goods, such as 1000A company points - 10RMB - 10
 
 - Payments.
 
-# Classes Diagram (see Program_Design_Info.pdf for details)
+# Programming Paradigm (see Program_Design_Info.pdf for details)
 
 ![Classes_diagram](https://github.com/HuangJingying/Cpulsplus_Project/blob/main/Classes_diagram.png)
 
