@@ -28,7 +28,7 @@ Run "main.cpp"
 
 - Register  
 
-![img](https://github.com/HuangJingying/Cpulsplus_Project/blob/main/Test_Case1.png)
+![img](https://github.com/HuangJingying/Cpulsplus_Project/blob/main/Test_Case.png)
 
 
 
